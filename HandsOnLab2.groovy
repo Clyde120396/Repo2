@@ -6,7 +6,6 @@ def users = [
 
 users.each { user ->
     println user.username
-    println user.role
 
 }
 
