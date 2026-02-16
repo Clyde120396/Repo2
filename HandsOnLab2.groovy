@@ -1,6 +1,6 @@
 def users = [
-        [username: 'Clyde', role: 'Manual QA'],
-        [username: 'Mark', role: 'Perf QA'],
+        [username: 'Cali', role: 'Manual QA'],
+        [username: 'Alison', role: 'Perf QA'],
         [username: 'Cruz', role: 'Automation QA']
 ]
 
